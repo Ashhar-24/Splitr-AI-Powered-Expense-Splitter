@@ -74,12 +74,3 @@ Splitter is a full‑stack application that simplifies how groups and friends ma
 
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes, feature requests, or enhancements.
 
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-> Crafted by Mohammad Ashhar | June 2025 – Ongoing
